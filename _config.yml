@@ -53,7 +53,7 @@ metadata: Copy of collectionbuilder-metadata-template (CSV) - Sheet1
 organization-name: "UBC Asian Library"
 organization-link: https://asian.library.ubc.ca/
 organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+organization-logo-nav: https://github.com/gpark47/film-test/blob/94d6ed9a536affac8a2545c65e791ad921a9291b/_data/UBC%20logo.jpg
 
 ##########
 # GOOGLE SERVICES [optional!]
