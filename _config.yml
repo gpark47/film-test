@@ -39,7 +39,7 @@ metadata: metadata-films
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
 page_gen:
  data: 'metadata-films'
- template: 'item'
+ template: 'record'
  name: 'objectid'
      dir: 'items'
      extension: 'html' 
